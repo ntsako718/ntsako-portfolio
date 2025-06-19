@@ -1,0 +1,92 @@
+# 📚 Study Hub — Your AI-Powered Learning Companion
+
+Study Hub is an intelligent all-in-one platform that turns **your notes**, **past papers**, and **study goals** into tailored quizzes, realistic exam simulations, and smart insights. Built to help students learn deeply, revise efficiently, and master exams — with AI as your co-pilot.
+
+---
+
+## ✨ Features
+
+🔹 **Smart Note-Taking**  
+Take rich, structured notes with AI assistance: summaries, explanations, keyword highlighting, and more.
+
+🔹 **Quiz Generator**  
+Instantly create quizzes from your notes, with adjustable difficulty levels (light, medium, hard).
+
+🔹 **Exam Simulator**  
+Generate full mock exams using your material and past paper styles — complete with timers and marking guides.
+
+🔹 **Study Dashboard**  
+Track your progress, identify weak areas, and schedule focused revision sessions.
+
+🔹 **Intelligent Flashcards** *(coming soon)*  
+Auto-generate spaced repetition cards from notes.
+
+🔹 **Study Streaks + Goals** *(future)*  
+Gamified tracking to help stay consistent and motivated.
+
+---
+
+## 🔧 Tech Stack
+
+| Layer        | Stack                               |
+|--------------|--------------------------------------|
+| Frontend     | React + TailwindCSS + TipTap Editor |
+| Backend API  | Node.js + Express                   |
+| AI Features  | OpenAI API + LangChain              |
+| Database     | MongoDB / PostgreSQL                |
+| Auth         | Firebase Auth                       |
+| Hosting      | Vercel (frontend) + Railway (API)   |
+| Mobile App   | React Native *(future roadmap)*     |
+
+---
+
+## 📌 Roadmap
+
+| Phase | Module                     | Status  |
+|-------|----------------------------|---------|
+| 1     | Project setup + UI shell   | 🟡 In Progress |
+| 2     | Manual Note-Taking Module  | 🔜 Next |
+| 3     | AI Quiz Generation         | ⬜ Planned |
+| 4     | Study Dashboard (basic)    | ⬜ Planned |
+| 5     | Exam Generator (Beta)      | ⬜ Planned |
+| 6     | AI Note Tools (summarizer) | ⬜ Planned |
+| 7     | Export to PDF              | ⬜ Planned |
+| 8     | Mobile App                 | ⬜ Future |
+
+---
+
+## 🧠 How It Works
+
+1. **Take Notes**  
+   Write in the rich editor or paste lecture material. AI can summarize or restructure them.
+
+2. **Generate a Quiz**  
+   Select intensity and topics → AI generates relevant questions.
+
+3. **Practice or Take an Exam**  
+   Choose “Exam Mode” to simulate timed tests with realistic structure.
+
+4. **Review & Track**  
+   Study Dashboard shows what you're strong or weak in, helping guide future sessions.
+
+---
+
+## 🤝 Contributing
+
+This is a student-first project. If you’re passionate about education, AI, or web dev — PRs and feedback are welcome!
+
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+## 🚀 Future Ideas (Community Wishlist)
+
+- Group Study Rooms
+- Voice-to-Note support
+- OCR for handwritten notes
+- Exam paper scanner and analyzer
+- University-style learning outcomes + goal setting
